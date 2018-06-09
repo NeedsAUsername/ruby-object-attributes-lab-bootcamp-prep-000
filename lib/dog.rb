@@ -1,12 +1,13 @@
-class Person
+class Dog 
   def initialize(name)
-    @name = name
-  end
- 
-  def name
+    @name = name 
+  end 
+  def name 
     @name
-  end
-end
- 
-kanye = Person.new("Kanye")
-kanye.name #=> "Kanye"
+  end 
+end 
+
+
+One = Dog.new 
+
+One.name 
