@@ -10,4 +10,4 @@ end
 
 One = Dog.new('One') 
 
-One.name 
+puts One.name 
