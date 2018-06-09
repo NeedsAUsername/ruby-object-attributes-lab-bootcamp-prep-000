@@ -6,3 +6,7 @@ class Dog
     @name
   end 
 end 
+
+
+One = Dog.new 
+
