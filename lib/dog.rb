@@ -8,6 +8,6 @@ class Dog
 end 
 
 
-One = Dog.new 
+One = Dog.new('One') 
 
 One.name 
