@@ -10,3 +10,4 @@ end
 
 One = Dog.new 
 
+One.name 
